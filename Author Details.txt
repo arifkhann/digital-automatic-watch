@@ -1,2 +1,3 @@
-Name :- Mohd Arif Khan 
-Email :- arif.persystent@gmail.com
+Name : Mohd Arif Khan 
+Email : arif.persystent@gmail.com
+Profession : Software Developer
